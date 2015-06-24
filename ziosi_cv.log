@@ -2,8 +2,8 @@ This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (prelo
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**ziosi_resume.tex
-(./ziosi_resume.tex
+**ziosi_cv.tex
+(./ziosi_cv.tex
 LaTeX2e <2014/05/01>
 Babel <3.9l> and hyphenation patterns for 79 languages loaded.
 (./europecv.cls
@@ -206,22 +206,22 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
 )
-(./ziosi_resume.aux)
-\openout1 = `ziosi_resume.aux'.
+(./ziosi_cv.aux)
+\openout1 = `ziosi_cv.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Try loading font information for T1+phv on input line 34.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Try loading font information for T1+phv on input line 32.
  (/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1phv.fd
 File: t1phv.fd 2001/06/04 scalable font definitions for T1/phv.
 )
@@ -262,8 +262,8 @@ File: ucsencs.def 2003/11/29 Fixes to fontencodings LGR, T3
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Info: Redefining \it@ocap on input line 34.
-LaTeX Info: Redefining \it@ccap on input line 34.
+LaTeX Info: Redefining \it@ocap on input line 32.
+LaTeX Info: Redefining \it@ccap on input line 32.
 (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count104
@@ -324,7 +324,7 @@ e
 <unipd.jpg, id=1, 598.235pt x 602.25pt>
 File: unipd.jpg Graphic file (type jpg)
  <use unipd.jpg>
-Package pdftex.def Info: unipd.jpg used on input line 38.
+Package pdftex.def Info: unipd.jpg used on input line 36.
 (pdftex.def)             Requested size: 65.44142pt x 65.88011pt.
 
 (/usr/share/texlive/texmf-dist/tex/latex/ucs/utf8x.def
@@ -348,12 +348,15 @@ File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
 (/usr/share/texlive/texmf-dist/tex/latex/ucs/utf8x.def
 File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
 )
-<firma.png, id=2, 284.5029pt x 94.85437pt>
-File: firma.png Graphic file (type png)
- <use firma.png>
-Package pdftex.def Info: firma.png used on input line 323.
-(pdftex.def)             Requested size: 256.0748pt x 85.37682pt.
+(/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-0.def
+File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
+)
+LaTeX Font Info:    Font shape `T1/phv/mc/it' in size <10> not available
+(Font)              Font shape `T1/phv/mc/sl' tried instead on input line 199.
 
+(/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-1.def
+File: uni-1.def 2013/05/13 UCS: Unicode data U+0100..U+01FF
+)
 (/usr/share/texlive/texmf-dist/tex/latex/ucs/utf8x.def
 File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
 )
@@ -361,9 +364,9 @@ File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
 File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 325.
+(Font)              <7> on input line 302.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 325.
+(Font)              <5> on input line 302.
  [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./unipd.jpg>]
@@ -372,23 +375,48 @@ File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
 )
 (/usr/share/texlive/texmf-dist/tex/latex/ucs/utf8x.def
 File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
-) [2 <./firma.png>]
-(./ziosi_resume.aux) ) 
+) [2]
+<firma.png, id=12, 284.5029pt x 94.85437pt>
+File: firma.png Graphic file (type png)
+ <use firma.png>
+Package pdftex.def Info: firma.png used on input line 324.
+(pdftex.def)             Requested size: 256.0748pt x 85.37682pt.
+
+(/usr/share/texlive/texmf-dist/tex/latex/ucs/utf8x.def
+File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
+)
+(/usr/share/texlive/texmf-dist/tex/latex/ucs/utf8x.def
+File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
+) [3]
+(/usr/share/texlive/texmf-dist/tex/latex/ucs/utf8x.def
+File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
+)
+(/usr/share/texlive/texmf-dist/tex/latex/ucs/utf8x.def
+File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
+) [4]
+(/usr/share/texlive/texmf-dist/tex/latex/ucs/utf8x.def
+File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
+)
+(/usr/share/texlive/texmf-dist/tex/latex/ucs/utf8x.def
+File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
+) [5 <./firma.png>]
+(./ziosi_cv.aux) ) 
 Here is how much of TeX's memory you used:
- 4345 strings out of 493105
- 57996 string characters out of 6137072
- 160486 words of memory out of 5000000
- 7712 multiletter control sequences out of 15000+600000
- 17384 words of font info for 24 fonts, out of 8000000 for 9000
+ 5463 strings out of 493105
+ 69982 string characters out of 6137072
+ 181013 words of memory out of 5000000
+ 8809 multiletter control sequences out of 15000+600000
+ 20401 words of font info for 26 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 38i,13n,45p,793b,799s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.en
-c}</usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8ac.pfb></usr/sha
-re/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8ac.pfb>
-Output written on ziosi_resume.pdf (2 pages, 724499 bytes).
+ 38i,13n,45p,789b,799s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</
+usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8ac.pfb></usr/share/t
+exlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8ac.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/urw/helvetic/uhvro8ac.pfb>
+Output written on ziosi_cv.pdf (5 pages, 742684 bytes).
 PDF statistics:
- 24 PDF objects out of 1000 (max. 8388607)
- 14 compressed objects within 1 object stream
+ 37 PDF objects out of 1000 (max. 8388607)
+ 23 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
