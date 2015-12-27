@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (preloaded format=pdflatex 2015.4.30)  17 MAY 2015 18:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2015.11.19)  27 DEC 2015 22:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **ziosi_cv.tex
 (./ziosi_cv.tex
-LaTeX2e <2014/05/01>
+LaTeX2e <2015/01/01>
 Babel <3.9l> and hyphenation patterns for 79 languages loaded.
 (./europecv.cls
 Document Class: europecv 2006/04/24 (beta) European curriculum vitae class
@@ -35,7 +35,7 @@ File: uni-global.def 2004/10/17 UCS: Unicode global data
 \uc@combtoksb=\toks15
 \uc@temptokena=\toks16
 ) (/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
-Package: inputenc 2014/04/30 v1.2b Input encoding file
+Package: inputenc 2015/03/17 v1.2c Input encoding file
 \inpenc@prehook=\toks17
 \inpenc@posthook=\toks18
 
@@ -96,13 +96,13 @@ Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.def
 File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
-LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
 ))
 (/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2010/09/12 v5.6 Page Geometry
 
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
-Package: keyval 2014/05/08 v1.15 key=value parser (DPC)
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks21
 )
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
@@ -136,7 +136,7 @@ Package: bibentry 2007/10/30 1.5 (PWD)
 Package: babel 2014/09/25 3.9l The Babel package
 
 (/usr/share/texlive/texmf-dist/tex/generic/babel-italian/italian.ldf
-Language: italian 2014/03/29 v1.3k Italian support from the babel system
+Language: italian 2015/03/26 v1.3n Italian support from the babel system
 
 (/usr/share/texlive/texmf-dist/tex/generic/babel/babel.def
 File: babel.def 2014/09/25 3.9l Babel common definitions
@@ -146,26 +146,20 @@ File: babel.def 2014/09/25 3.9l Babel common definitions
 \it@lettering=\count97
 \it@doublequoteactive=\count98
 \it@ISOcompliance=\count99
-\Virgola=\count100
 ))
 (/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
-Package: etoolbox 2011/01/03 v2.1 e-TeX tools for LaTeX
-
-(/usr/share/texlive/texmf-dist/tex/latex/etex-pkg/etex.sty
-Package: etex 1998/03/26 v2.0 eTeX basic definition package (PEB)
-\et@xins=\count101
-)
-\etb@tempcnta=\count102
+Package: etoolbox 2015/08/02 v2.2a e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count100
 )
 (/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip10
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
-Package: graphicx 2014/04/25 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
 
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
-Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
 
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
@@ -173,7 +167,7 @@ Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
 (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
 File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
 )
-Package graphics Info: Driver file: pdftex.def on input line 91.
+Package graphics Info: Driver file: pdftex.def on input line 94.
 
 (/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
 File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
@@ -184,7 +178,7 @@ Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
 Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 )
-\Gread@gobject=\count103
+\Gread@gobject=\count101
 ))
 \Gin@req@height=\dimen115
 \Gin@req@width=\dimen116
@@ -266,16 +260,16 @@ LaTeX Info: Redefining \it@ocap on input line 32.
 LaTeX Info: Redefining \it@ccap on input line 32.
 (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count104
+\scratchcounter=\count102
 \scratchdimen=\dimen117
 \scratchbox=\box30
-\nofMPsegments=\count105
-\nofMParguments=\count106
+\nofMPsegments=\count103
+\nofMParguments=\count104
 \everyMPshowfont=\toks23
-\MPscratchCnt=\count107
+\MPscratchCnt=\count105
 \MPscratchDim=\dimen118
-\MPnumerator=\count108
-\makeMPintoPDFobject=\count109
+\MPnumerator=\count106
+\makeMPintoPDFobject=\count107
 \everyMPtoPDFconversion=\toks24
 ) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
 Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
@@ -364,9 +358,9 @@ File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
 File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 302.
+(Font)              <7> on input line 301.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 302.
+(Font)              <5> on input line 301.
  [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./unipd.jpg>]
@@ -379,7 +373,7 @@ File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
 <firma.png, id=12, 284.5029pt x 94.85437pt>
 File: firma.png Graphic file (type png)
  <use firma.png>
-Package pdftex.def Info: firma.png used on input line 324.
+Package pdftex.def Info: firma.png used on input line 325.
 (pdftex.def)             Requested size: 256.0748pt x 85.37682pt.
 
 (/usr/share/texlive/texmf-dist/tex/latex/ucs/utf8x.def
@@ -402,10 +396,10 @@ File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
 ) [5 <./firma.png>]
 (./ziosi_cv.aux) ) 
 Here is how much of TeX's memory you used:
- 5463 strings out of 493105
- 69982 string characters out of 6137072
- 181013 words of memory out of 5000000
- 8809 multiletter control sequences out of 15000+600000
+ 5409 strings out of 493085
+ 69323 string characters out of 6136916
+ 181213 words of memory out of 5000000
+ 8779 multiletter control sequences out of 15000+600000
  20401 words of font info for 26 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  38i,13n,45p,789b,799s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -413,7 +407,7 @@ Here is how much of TeX's memory you used:
 usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8ac.pfb></usr/share/t
 exlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8ac.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/urw/helvetic/uhvro8ac.pfb>
-Output written on ziosi_cv.pdf (5 pages, 742684 bytes).
+Output written on ziosi_cv.pdf (5 pages, 742692 bytes).
 PDF statistics:
  37 PDF objects out of 1000 (max. 8388607)
  23 compressed objects within 1 object stream
