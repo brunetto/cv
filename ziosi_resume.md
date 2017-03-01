@@ -1,46 +1,15 @@
-\documentclass[helvetica,narrow,openbib]{europecv}
-\usepackage[T1]{fontenc}
-\usepackage[a4paper,top=2cm,left=1cm,right=1cm,bottom=2cm]{geometry}
-\usepackage{ifpdf}
-\usepackage{bibentry}
-\usepackage[italian]{babel}
-\usepackage{url}
-\ifpdf
-    \usepackage[pdftex]{graphicx}
-\else
-    \usepackage{graphicx}
-\fi
-\usepackage{xcolor}
+# Personal information
+**Name:** Brunetto Ziosi
+Email: brunetto.ziosi@gmail.com
+Phone: (+39) 3474958152
+Address: Via Castellana 221, 20174, Zelarino (VE)
 
-\renewcommand{\ttdefault}{phv} % Uses Helvetica instead of fixed width font
-\renewcommand{\emph}[1]{\textbf{#1}}
-\ecvlastname{Ziosi}
-\ecvfirstname{Brunetto Marco}
-\ecvaddress{via Ivancich n.17, 30174, Chirignago (VE)}
-\ecvtelephone{(+39) 3474958152}
-\ecvemail{brunetto.ziosi@gmail.com}
+Website: brunettoziosi.eu
+LinkedIn: https://www.linkedin.com/in/brunettoziosi
+Public repositoris: github.com/brunetto, gitlab.com/brunetto
 
-\ecvnationality{Italian}
-\ecvdateofbirth{03/05/1985} % FIXME Solo per application in Europa
-
-\begin{document}
-\selectlanguage{italian}
-%\ecvfootnote{Curriculum Vitae of Brunetto Marco Ziosi}
-
-\begin{europecv}
-%\ecvpersonalinfo[20pt]
-\ecvsection{\textcolor[rgb]{0.35,0.35,0.35}{Personal information}}
-\ecvitem{Name}{{\bf Brunetto Ziosi}}
-\ecvitem{Email}{brunetto.ziosi@gmail.com}
-\ecvitem{Phone}{(+39) 3474958152}
-\ecvitem{Address}{Via Castellana 221, 20174, Zelarino (VE)}
-
-\ecvitem{Website}{\texttt{brunettoziosi.eu}}
-\ecvitem{LinkedIn}{\texttt{https://www.linkedin.com/in/brunettoziosi}}
-\ecvitem{Public repositoris}{\texttt{github.com/brunetto}, \texttt{gitlab.com/brunetto}}
-
-\ecvsection{\textcolor[rgb]{0.35,0.35,0.35}{Experience}}
-\ecvitem{\textcolor[rgb]{0.35,0.35,0.35}{\bf 2015/09 - present}}{\bf Full stack developer at Pixartprinting - a Cimpress company}
+# Experience
+2015/09 - present: Full stack developer at Pixartprinting - a Cimpress company
 \ecvitem{\textcolor[rgb]{0.35,0.35,0.35}{2015/01-2015/07}}{Fellowship at National Institute for Astrophysics (INAF - OAPd)}
 \ecvitem{\textcolor[rgb]{0.35,0.35,0.35}{2012-2013}}{Teaching assistant: Mathematical Analysys, Python Lab - Department of Physics and Astronomy, University of Padova}
 
