@@ -1,0 +1,41 @@
+title = "TOML Example"
+
+[About me]
+Name = "Brunetto Ziosi"
+Address = "Via Castellana 221 - 30174 - Zelarino (VE)"
+Phone = "+393474958152"
+Email = "brunetto.ziosi@gmail.com"
+Birthday = "03-05-1985"
+Website = "brunettoziosi.eu"
+Linkedin = "linkedin.com/in/brunettoziosi"
+
+Bio =  """At the beginning there were Fortran, Bash and SuperMongo (ok, at the very beginning, Logo and Pascal), then I saw the light with Python. Now I am in a stable relationship with Golang (and yes, PHP/HTML/JS/CSS, because the bills don't pay by themselves, right?) with some adventures in C/C++.
+
+I love when data tell stories and the visual narration is beautiful. I like simplicity, sharing and collaboration, continuous improvement and curiosity. Problem solving is my spice of life."""
+
+
+[database]
+server = "192.168.1.1"
+ports = [ 8001, 8001, 8002 ]
+connection_max = 5000
+enabled = true
+
+[servers]
+
+  # Indentation (tabs and/or spaces) is allowed but not required
+  [servers.alpha]
+  ip = "10.0.0.1"
+  dc = "eqdc10"
+
+  [servers.beta]
+  ip = "10.0.0.2"
+  dc = "eqdc10"
+
+[clients]
+data = [ ["gamma", "delta"], [1, 2] ]
+
+# Line breaks are OK when inside arrays
+hosts = [
+  "alpha",
+  "omega"
+]
