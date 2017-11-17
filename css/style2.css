@@ -1,0 +1,151 @@
+@font-face {
+    font-family: "Roboto";
+    src: local(Roboto Thin), url("../fonts/roboto/Roboto-Thin.woff2") format("woff2"), url("../fonts/roboto/Roboto-Thin.woff") format("woff");
+    font-weight: 100;
+}
+
+@font-face {
+    font-family: "Roboto";
+    src: local(Roboto Light), url("../fonts/roboto/Roboto-Light.woff2") format("woff2"), url("../fonts/roboto/Roboto-Light.woff") format("woff");
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: "Roboto";
+    src: local(Roboto Regular), url("../fonts/roboto/Roboto-Regular.woff2") format("woff2"), url("../fonts/roboto/Roboto-Regular.woff") format("woff");
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "Roboto";
+    src: local(Roboto Medium), url("../fonts/roboto/Roboto-Medium.woff2") format("woff2"), url("../fonts/roboto/Roboto-Medium.woff") format("woff");
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: "Roboto";
+    src: local(Roboto Bold), url("../fonts/roboto/Roboto-Bold.woff2") format("woff2"), url("../fonts/roboto/Roboto-Bold.woff") format("woff");
+    font-weight: 700;
+}
+.html, body {
+    font-family: Roboto;
+    line-height: 1.5;
+}
+
+body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.sheet {
+    /*width: 210mm;*/
+    /*min-height: 297mm;*/
+    width: 280mm;
+    margin: 10mm auto;
+    border: 1px lightgray solid;
+    border-radius: 2px;
+    background: white;
+    /*box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 1px 5px 0 rgba(0, 0, 0, 0.12), 0 3px 1px -2px rgba(0, 0, 0, 0.2);*/
+}
+.page {
+    position: relative;
+    margin: 10mm;
+    height: 265mm;
+}
+.page-title {}
+.page-content{}
+.left-panel{
+    float: left;
+    box-sizing: border-box;
+    padding: 0 0.75rem;
+    min-height: 1px;
+    width: 40%;
+}
+.right-panel{
+    float: right;
+    box-sizing: border-box;
+    padding: 0 0.75rem;
+    min-height: 1px;
+    width: 60%;
+}
+.card{
+    height: fit-content;
+    padding: 5%;
+    margin: 10mm auto;
+    border: 1px white solid;
+    border-radius: 3px;
+    background: white;
+    box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 1px 5px 0 rgba(0, 0, 0, 0.12), 0 3px 1px -2px rgba(0, 0, 0, 0.2);
+    overflow: auto;
+}
+
+.card * {
+    margin: 0;
+}
+.card-section-title {
+    color: #75757c;
+    line-height: 110%;
+    font-size: 150%;
+}
+.card-icon{
+    float: left;
+    width: 8%;
+}
+.card-content{
+    float: right;
+    width: 92%;
+}
+
+.work-name {
+    font-size: 120%;
+    font-weight: 400;
+}
+
+.work-period {
+    font-size: 110%;
+    color: #64646b;
+}
+
+.work-description {
+    font-size: 85%;
+}
+
+.gray {
+    color: #75757c;
+}
+
+.name {
+    font-size: 210%;
+    font-weight: 500;
+    color: gray;
+}
+
+.card-content{
+    text-align: justify;
+}
+
+.left-panel .card-content p{
+    font-size: small;
+}
+
+@page {
+    size: A4;
+    margin: 0;
+}
+
+@media print {
+    html, body {
+        width: 210mm;
+        height: 297mm;
+    }
+    .sheet {
+        page-break-after: auto; /* always */
+        margin: 0;
+        width: initial;
+        min-height: initial;
+        border: 1px #ffffff solid;
+        box-shadow: initial;
+    }
+}
