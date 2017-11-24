@@ -32,8 +32,7 @@ Go &#8226; Python &#8226; PHP &#8226; HTML/JS/CSS &#8226; Docker &#8226; Git &#8
 
 ## Work experience
 
-**Software Developer @ Pixartprinting - a Cimpress company**
-
+**Software Developer @ Pixartprinting - a Cimpress company**    
 `Sep 2015 - Present`
 
 Member of the IT-Logistics team, develop internal solutions for packaging and shipping management.
