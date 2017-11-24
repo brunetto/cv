@@ -27,8 +27,8 @@ Go &#8226; Python &#8226; PHP &#8226; HTML/JS/CSS &#8226; Docker &#8226; Git &#8
 
 * +393474958152
 * Via Castellana 221    
-30174 - Venezia    
-Italy    
+* 30174 - Venezia    
+* Italy    
 
 ## Work experience
 
