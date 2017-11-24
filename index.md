@@ -32,7 +32,7 @@ Italy
 
 ## Work experience
 
-### Software Developer @ Pixartprinting - a Cimpress company
+**Software Developer @ Pixartprinting - a Cimpress company**
 `Sep 2015 - Present`
 
 Member of the IT-Logistics team, develop internal solutions for packaging and shipping management.
