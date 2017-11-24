@@ -65,7 +65,7 @@ body {
 p {
 	position: relative;
 	/*left: 33%;*/
-	left: 20%;
+	left: 25%;
 	margin-bottom: 0.7em;
 	margin-right: 0;
 	width: 65%;
@@ -82,7 +82,7 @@ code {
 }
 
 p code {
-	position: absolute;
+	position: relative; /*absolute;*/
 	/*left: -14%;*/
 }
 
