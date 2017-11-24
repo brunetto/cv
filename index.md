@@ -18,10 +18,10 @@ Go &#8226; Python &#8226; PHP &#8226; HTML/JS/CSS &#8226; Docker &#8226; Git &#8
 ## Web
 
 * brunetto.ziosi@gmail.com
-* http://brunettoziosi.eu
-* https://github.com/brunetto
-* https://gitlab.com/brunetto
-* https://hub.docker.com/u/brunetto
+* [http://brunettoziosi.eu](http://brunettoziosi.eu)
+* [https://github.com/brunetto](https://github.com/brunetto)
+* [https://gitlab.com/brunetto](https://gitlab.com/brunetto)
+* [https://hub.docker.com/u/brunetto](https://hub.docker.com/u/brunetto)
 
 ## Contacts
 
