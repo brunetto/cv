@@ -41,32 +41,38 @@ Design and build Go micro-services on AWS while maintaining the PHP/AJAX/MySQL l
 Integrate external carriers and outsourcers.
                                     
 **Research fellow @ INAF-OAPd**
+
 `Jan 2015 - Jul 2015`
 
 Study gravitational waves sources in young star clusters by means of direct N-body and stellar evolution simulations. Develop Go and Python code to set up, run and analyse simulations on several remote computing clusters. Modify C++ code to model different physical processes involved.
 
 **Teaching assistant @ University of Padova**
+
 `2012 - 2013`
 
 Advise students with theory and exercises for the Python Lab and Mathematical analysis classes.
 
 **Intern @ University of Padova**
+
 `2010`
 
 Technical characterization of the Asiago astrophysical observatory, 3D model using Blender.
 
 ## Education
 **PhD, Astronomy and Astrophysics @ University of Padova**
+
 `2012 - 2015`
  
 Work on N-body simulations of star clusters to study the impact of stellar evolution and dynamics on neutron stars and black holes binary systems. These objects have been observed as sources of gravitational waves. Develop Go and Python code to set up, run and analyse simulations on several remote computing clusters.
                                    
 **Master degree in Astronomy @ University of Padova**
+
 `2007 - 2011`
 
 Develop Python code to analyse the spatial statistical properties of dark matter halos in the largest cosmological simulations.
                                    
 **Bachelor degree in Astronomy @ University of Padova**
+
 `2004 - 2007`
 
 Develop IDL code to simulate and analyze optical vortexes with different angular momentum. Compare the results with data obtained on the optical bench.
