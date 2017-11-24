@@ -5,7 +5,7 @@ title: Brunetto Ziosi
 # Brunetto Ziosi
 ## About me
                                         
-Passionate Go developer. Worked with Python, PHP and Fortran.
+Passionate Go developer. PhD in AstrophysicsWorked with Python, PHP and Fortran.
 Love data telling stories and the beauty of visual narration.
 Like simplicity, sharing and collaboration.<br/>
 Constantly improving, prompted by curiosity, triggered by problem solving.
@@ -26,9 +26,9 @@ Go &#8226; Python &#8226; PHP &#8226; HTML/JS/CSS &#8226; Docker &#8226; Git &#8
 ## Contacts
 
 * +393474958152
-* Via Castellana 221
-30174 - Venezia
-Italy
+* Via Castellana 221    
+30174 - Venezia    
+Italy    
 
 ## Work experience
 
