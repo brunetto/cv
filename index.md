@@ -13,15 +13,7 @@ Traveler, geek and a wannabe photographer in the spare time.<br/>
 Exploring Domain Driven Design, Event Sourcing, Kubernetes and Vue.js.
 
 ## Skills
-* Go 
-* Python 
-* PHP 
-* HTML/JS/CSS
-* Docker 
-* Git
-* MySQL
-* MongoDB
-* AWS
+Go &#8226; Python &#8226; PHP &#8226; HTML/JS/CSS &#8226; Docker &#8226; Git &#8226; MySQL &#8226; MongoDB &#8226; AWS
                                                                       
 ## Web
 
@@ -41,7 +33,7 @@ Italy
 ## Work experience
 
 ### Software Developer @ Pixartprinting - a Cimpress company
-#### Sep 2015 - Present
+`Sep 2015 - Present`
 
 Member of the IT-Logistics team, develop internal solutions for packaging and shipping management.
 Design and build Go micro-services on AWS while maintaining the PHP/AJAX/MySQL legacy ERP monolith.
