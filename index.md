@@ -5,7 +5,7 @@ title: Brunetto Ziosi
 # Brunetto Ziosi
 ## About me
                                         
-Passionate Go developer. PhD in AstrophysicsWorked with Python, PHP and Fortran.
+Passionate Go developer. PhD in Astrophysics. Worked with Python, PHP and Fortran.
 Love data telling stories and the beauty of visual narration.
 Like simplicity, sharing and collaboration.<br/>
 Constantly improving, prompted by curiosity, triggered by problem solving.
