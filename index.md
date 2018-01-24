@@ -36,7 +36,7 @@ Go &#8226; Docker &#8226; AWS &#8226; Python &#8226; Git &#8226; PHP &#8226; HTM
 
 `Sep 2015 - Present`
 
-Member of the IT-Logistics team, develop internal solutions for packaging and shipping management.
+Develop internal solutions for packaging and shipping management.
 Design and build Go micro-services on AWS while maintaining the PHP/AJAX/MySQL legacy ERP monolith.
 Integrate external carriers and outsourcers.
                                     
