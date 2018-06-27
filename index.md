@@ -34,7 +34,7 @@ Go &#8226; Docker &#8226; AWS &#8226; Python &#8226; Git &#8226; PHP &#8226; HTM
 
 ## Work experience
 
-**Senior Software Developer @ Pixartprinting - a Cimpress company**
+**Senior Software Engineer @ Pixartprinting - a Cimpress company**
 
 `Jan 2018 - Present`
 
