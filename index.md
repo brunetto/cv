@@ -10,7 +10,10 @@ Love data telling stories and the beauty of visual narration.
 Like simplicity, sharing and collaboration.<br/>
 Constantly improving, prompted by curiosity, triggered by problem solving.
 Traveler, geek and a wannabe photographer in the spare time.<br/>
-Exploring Domain Driven Design, Event Sourcing, Kubernetes and Vue.js.
+
+"Software engineering is what happens to programming when you add time and other programmers."    
+[Russ Cox]
+
 
 ## Skills
 Go &#8226; Docker &#8226; AWS &#8226; Python &#8226; Git &#8226; PHP &#8226; HTML/JS/CSS &#8226; MySQL &#8226; MongoDB
