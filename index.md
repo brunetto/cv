@@ -23,7 +23,6 @@ Go &#8226; Docker &#8226; AWS &#8226; Python &#8226; Git &#8226; PHP &#8226; HTM
 * [http://brunettoziosi.com](http://brunettoziosi.com)
 * [https://github.com/brunetto](https://github.com/brunetto)
 * [https://gitlab.com/brunetto](https://gitlab.com/brunetto)
-* [https://hub.docker.com/u/brunetto](https://hub.docker.com/u/brunetto)
 
 ## Contacts
 
@@ -90,4 +89,4 @@ Develop IDL code to simulate and analyze optical vortexes with different angular
 
 ## Interests
 
-Programming &#8226; Digital photography &#8226; Travelling &#8226; Diving &#8226; Volunteering
+Digital photography &#8226; Travelling &#8226; Diving &#8226; Volunteering
