@@ -19,22 +19,14 @@ Go &#8226; Docker &#8226; AWS &#8226; Python &#8226; Git &#8226; PHP &#8226; HTM
                                                                       
 ## Web
 
-<a href="mailto:brunetto.ziosi@gmail.com"><i class="fas fa-envelope"></i></a> 
-<a href="http://brunettoziosi.com"><i class="fas fa-code"></i></a> 
-<a href="hhttps://github.com/brunetto"><i class="fab fa-github"></i></a> 
-<a href="hhttps://gitlab.com/brunetto"><i class="fab fa-gitlab"></i></a> 
-<a href="https://www.linkedin.com/in/brunettoziosi/"><i class="fab fa-linkedin-in"></i></a> 
-<a href="https://twitter.com/brunettoziosi"><i class="fab fa-twitter"></i></a> 
-<a href="https://www.instagram.com/brunetto.ziosi/"><i class="fab fa-instagram"></i></a> 
-<a href="https://unsplash.com/@brunettoziosi"><i class="fas fa-camera"></i></a> 
-
-<!--
-* brunetto.ziosi@gmail.com
-* [http://brunettoziosi.com](http://brunettoziosi.com)
-* [https://github.com/brunetto](https://github.com/brunetto)
-* [https://gitlab.com/brunetto](https://gitlab.com/brunetto)
-* [linkedin](https://www.linkedin.com/in/brunettoziosi/)
--->
+<a href="mailto:brunetto.ziosi@gmail.com"><i class="fas fa-envelope"></i> brunetto.ziosi@gmail.com</a> 
+<a href="http://brunettoziosi.com"><i class="fas fa-code"></i> http://brunettoziosi.com</a> 
+<a href="https://github.com/brunetto"><i class="fab fa-github"></i> https://github.com/brunetto</a> 
+<a href="https://gitlab.com/brunetto"><i class="fab fa-gitlab"></i> https://gitlab.com/brunetto</a> 
+<a href="https://www.linkedin.com/in/brunettoziosi/"><i class="fab fa-linkedin-in"></i> https://www.linkedin.com/in/brunettoziosi/</a> 
+<a href="https://twitter.com/brunettoziosi"><i class="fab fa-twitter"></i> https://twitter.com/brunettoziosi</a> 
+<a href="https://www.instagram.com/brunetto.ziosi/"><i class="fab fa-instagram"></i> https://www.instagram.com/brunetto.ziosi/</a> 
+<a href="https://unsplash.com/@brunettoziosi"><i class="fas fa-camera"></i> https://unsplash.com/@brunettoziosi</a> 
 
 ## Contacts
 
