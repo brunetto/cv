@@ -19,11 +19,18 @@ Go &#8226; Docker &#8226; AWS &#8226; Python &#8226; Git &#8226; PHP &#8226; HTM
                                                                       
 ## Web
 
-* <a href="mailto:brunetto.ziosi@gmail.com"><i class="fas fa-envelope"></i></a> 
+<a href="mailto:brunetto.ziosi@gmail.com"><i class="fas fa-envelope"></i></a> 
+<a href="http://brunettoziosi.com"><i class="fas fa-code"></i></a> 
+<a href="hhttps://github.com/brunetto"><i class="fab fa-github"></i></a> 
+<a href="hhttps://gitlab.com/brunetto"><i class="fab fa-gitlab"></i></a> 
+<a href="https://www.linkedin.com/in/brunettoziosi/"><i class="fab fa-linkedin-in"></i></i></a> 
+<!--
+* brunetto.ziosi@gmail.com
 * [http://brunettoziosi.com](http://brunettoziosi.com)
 * [https://github.com/brunetto](https://github.com/brunetto)
 * [https://gitlab.com/brunetto](https://gitlab.com/brunetto)
 * [linkedin](https://www.linkedin.com/in/brunettoziosi/)
+-->
 
 ## Contacts
 
