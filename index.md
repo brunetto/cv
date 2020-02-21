@@ -38,9 +38,10 @@ Go &#8226; Docker &#8226; AWS &#8226; Python &#8226; Git &#8226; PHP &#8226; HTM
 
 `Jan 2018 - Present`
 
-Design, build and ship Go micro-services on AWS.  
+Design, build and ship Go micro-services on AWS (mainly Lambda, SNS, SQS, DynamoDB and S3, sometime ECS).  
 Support the PHP/AJAX/MySQL legacy ERP monolith while migrating to the new architecture.   
-Focused on the logistic side of the business developing solutions for the packaging and shipping management and integrating external carriers and outsourcers. 
+Focus on the logistic side of the business both developing solutions for the packaging and shipping management and integrating external services.    
+Help other teams porting legacy workflows to the AWS cloud. Provide solutions for the integration of production machines (e.g. printers, industrial cutters, package sorters and palletizers) into the new cloud architecture.
 
 
 **Software Developer @ Pixartprinting - a Cimpress company**
