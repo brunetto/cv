@@ -24,9 +24,6 @@ Go &#8226; Docker &#8226; AWS &#8226; Python &#8226; Git &#8226; PHP &#8226; HTM
 * <a href="https://github.com/brunetto"><i class="fab fa-github"></i> https://github.com/brunetto</a> 
 * <a href="https://gitlab.com/brunetto"><i class="fab fa-gitlab"></i> https://gitlab.com/brunetto</a> 
 * <a href="https://www.linkedin.com/in/brunettoziosi/"><i class="fab fa-linkedin-in"></i> https://www.linkedin.com/in/brunettoziosi/</a> 
-* <a href="https://twitter.com/brunettoziosi"><i class="fab fa-twitter"></i> https://twitter.com/brunettoziosi</a> 
-* <a href="https://www.instagram.com/brunetto.ziosi/"><i class="fab fa-instagram"></i> https://www.instagram.com/brunetto.ziosi/</a> 
-* <a href="https://unsplash.com/@brunettoziosi"><i class="fas fa-camera"></i> https://unsplash.com/@brunettoziosi</a> 
 
 ## Contacts
 
