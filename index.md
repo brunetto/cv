@@ -15,7 +15,7 @@ Traveler, geek and a wannabe photographer in the spare time.
 [Russ Cox]
 
 ## Skills
-Go &#8226; Docker &#8226; AWS &#8226; Python &#8226; Git &#8226; PHP &#8226; HTML/JS/CSS &#8226; MySQL &#8226; MongoDB
+Go &#8226; Docker &#8226; AWS &#8226; Git &#8226; Python &#8226; PHP &#8226; HTML/JS/CSS &#8226; MySQL &#8226; MongoDB
                                                                       
 ## Web
 
