@@ -5,14 +5,10 @@ title: Brunetto Ziosi
 # Brunetto Ziosi
 ## About me
                                         
-Passionate Go developer. PhD in Astrophysics. Worked with Python, PHP and Fortran.
-Love data telling stories and the beauty of visual narration.
-Like simplicity, sharing and collaboration.<br/>
-Constantly improving, prompted by curiosity, triggered by problem solving.
-Traveler, geek and a wannabe photographer in the spare time.
+Passionate developer hanging out with Go at the moment, PhD in Astrophysics. A past with Python, PHP and Fortran (and just a little tast o C and C++). Love data telling stories and the beauty of visual narration. Like simplicity, sharing and collaboration. Constantly improving, prompted by curiosity, triggered by problem solving. 
+Traveler, geek and photographer in the spare time.
 
-"Software engineering is what happens to programming when you add time and other programmers."    
-[Russ Cox]
+"Software engineering is what happens to programming when you add time and other programmers." [Russ Cox]
 
 ## Skills
 Go &#8226; Docker &#8226; AWS &#8226; Git &#8226; Python &#8226; PHP &#8226; HTML/JS/CSS &#8226; MySQL &#8226; MongoDB
