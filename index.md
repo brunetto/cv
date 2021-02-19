@@ -92,5 +92,5 @@ Develop IDL code to simulate and analyze optical vortexes with different angular
 
 ## Interests
 
-Digital photography &#8226; Travelling &#8226; Diving &#8226; Volunteering.   
+Digital photography &#8226; Travelling &#8226; Trekking &#8226; Diving &#8226; Volunteering.   
 Pro-bono photographer at a local cultural association.
