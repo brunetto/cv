@@ -32,22 +32,32 @@ Go &#8226; Docker &#8226; AWS &#8226; Git &#8226; Python &#8226; PHP &#8226; HTM
 
 **Senior Software Engineer @ Pixartprinting - a Cimpress company**
 
-`Jan 2018 - Present`
+`Sep 2019 - Present`
 
-Design, build and ship Go micro-services on AWS (mainly Lambda, SNS, SQS, DynamoDB and S3, sometime ECS).  
-Support the PHP/AJAX/MySQL legacy ERP monolith while migrating to the new architecture.   
-Focus on the logistic side of the business both developing solutions for the packaging and shipping management and integrating external services.    
+Actively drive the company manufactury division through the trasformation from a "on-premise monolithic ERP" based company to a modern reality powered by distributed cloud-based software.
+Define the architecture of the current and future manufacturing software as a whole, together with its interactions with the other actors such as BI or the production stakeholders.    
+Create the common services that make up the foundation of the cloud manufacturing applications.
+Curate the internal standards and best practices, provide tools and libraries for the common tasks enabling rapid and safe development of new applications.
+Imagine, design and build entire new production lines from scratch, completely cloud-based, in matter of weeks.    
+Reference for the up-to-date knowledge of the language of choice (Go) inside the company.
+
+**Senior Software Engineer @ Pixartprinting - a Cimpress company**
+
+`Jan 2018 - Sep 2019`
+
+Design, build and ship Go micro-services on AWS (mainly Lambda, SNS, SQS, DynamoDB and S3, sometime ECS).
 Help other teams porting legacy workflows to the AWS cloud.     
+Provide support the PHP/AJAX/MySQL legacy ERP monolith while migrating to the new architecture.   
+Focus on the logistic side of the business both developing solutions for the packaging and shipping management and integrating external services.    
 Provide solutions for the integration of production machines (e.g. printers, industrial cutters, package sorters and palletizers) into the new cloud architecture.
-
 
 **Software Developer @ Pixartprinting - a Cimpress company**
 
 `Sep 2015 - Jan 2018`
 
-Develop internal solutions for packaging and shipping management.   
-Design and build Go micro-services on AWS while maintaining the PHP/AJAX/MySQL legacy ERP monolith.   
-Integrate external carriers and outsourcers.
+Develop internal solutions for packaging and shipping management inside the PHP/AJAX/MySQL legacy ERP monolith.
+Optimize and automate the external carriers and outsourcers integration.
+Introduce the Go language into the company tech stack, design and build the first Go micro-services on AWS.   
                                     
 **Research fellow @ INAF-OAPd**
 
