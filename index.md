@@ -2,7 +2,7 @@
 layout: cv
 title: Brunetto M. Ziosi
 ---
-# Brunetto Ziosi
+# Brunetto M. Ziosi
 ## About me
                                         
 Passionate developer hanging out with Go at the moment, PhD in Astrophysics. A past with Python, PHP and Fortran (and just a little taste of C and C++). Love data telling stories and the beauty of visual narration. Like simplicity, sharing and collaboration. Constantly improving, prompted by curiosity, triggered by problem solving. 
@@ -43,7 +43,7 @@ Create the common services that make up the foundation of the cloud manufacturin
 Curate the internal standards and best practices, provide tools and libraries for the common tasks enabling rapid and safe development of new applications.
 Imagine, design and build entire new production lines from scratch, completely cloud-based, in matter of weeks.    
 Reference for the up-to-date knowledge of the language of choice (Go) inside the company.
-
+    
 **Senior Software Engineer @ Pixartprinting - a Cimpress company**
 
 `Jan 2018 - Sep 2019`
