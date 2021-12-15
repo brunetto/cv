@@ -54,9 +54,6 @@ Provide support the PHP/AJAX/MySQL legacy ERP monolith while migrating to the ne
 Focus on the logistic side of the business both developing solutions for the packaging and shipping management and integrating external services.    
 Provide solutions for the integration of production machines (e.g. printers, industrial cutters, package sorters and palletizers) into the new cloud architecture.
 
-
-
-
 **Software Developer @ Pixartprinting - a Cimpress company**
 
 `Sep 2015 - Jan 2018`
