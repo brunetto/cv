@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Brunetto Ziosi
+title: Brunetto M. Ziosi
 ---
 # Brunetto Ziosi
 ## About me
@@ -29,9 +29,13 @@ Go &#8226; Docker &#8226; AWS &#8226; Git &#8226; Python &#8226; PHP &#8226; HTM
 
 ## Work experience
 
+**Software Architect @ THRON**
+
+`Oct 2021 - Present`
+
 **Senior Software Engineer @ Pixartprinting - a Cimpress company**
 
-`Sep 2019 - Present`
+`Sep 2019 - Oct 2021`
 
 Actively drive the company manufactury division through the trasformation from a "on-premise monolithic ERP" based company to a modern reality powered by distributed cloud-based software.
 Define the architecture of the current and future manufacturing software as a whole, together with its interactions with the other actors such as BI or the production stakeholders.    
