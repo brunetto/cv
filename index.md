@@ -110,4 +110,4 @@ Photography &#8226; Travelling &#8226; Trekking &#8226; Diving &#8226; Volunteer
 Pro-bono photographer at a local cultural association.
 -->
 
-* <i class="fa-solid fa-camera"></i> Concert and wedding photographer.
+* <i class="fas fa-camera"></i> Concert and wedding photographer.
