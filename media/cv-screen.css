@@ -70,7 +70,7 @@ body {
 	margin-right: 1em;
 }
 
-p {
+p, table {
 	position: relative;
 	/*left: 33%;*/
 	left: 15%;
