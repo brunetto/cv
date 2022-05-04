@@ -9,17 +9,21 @@ Passionate developer hanging out with Go at the moment, PhD in Astrophysics. A p
 Traveler, geek and photographer in the spare time.
 
 "Software engineering is what happens to programming when you add time and other programmers." [Russ Cox]
+
 <!--
 ## Skills
 Go &#8226; Docker &#8226; AWS &#8226; Git &#8226; Python &#8226; PHP &#8226; HTML/JS/CSS &#8226; MySQL &#8226; MongoDB
--->                                                                  
+-->        
+
 ## Web
 
 * <a href="http://brunettoziosi.com"><i class="fas fa-code"></i> http://brunettoziosi.com</a> 
 * <a href="https://github.com/brunetto"><i class="fab fa-github"></i> https://github.com/brunetto</a> 
 * <a href="https://www.linkedin.com/in/brunettoziosi/"><i class="fab fa-linkedin-in"></i> https://www.linkedin.com/in/brunettoziosi/</a> 
 
-## Contacts
+<!-- ## Contacts -->
+
+## Where
 
 * <a href="mailto:brunetto.ziosi@gmail.com"><i class="fas fa-envelope"></i> brunetto.ziosi@gmail.com</a> 
 * +393474958152
@@ -80,7 +84,7 @@ Advise students with theory and exercises for the Python Lab and Mathematical an
 
 Technical characterization of the Asiago astrophysical observatory, 3D model using Blender.
 
-## Education
+## Edu <!--cation-->
 **PhD, Astronomy and Astrophysics @ University of Padova**
 
 `2012 - 2015`
@@ -100,8 +104,10 @@ Develop Python code to analyse the spatial statistical properties of dark matter
 Develop IDL code to simulate and analyze optical vortexes with different angular momentum. Compare the results with data obtained on the optical bench.
 
 ## Other
+
 <!--
 Photography &#8226; Travelling &#8226; Trekking &#8226; Diving &#8226; Volunteering.   
 Pro-bono photographer at a local cultural association.
 -->
+
 * <i class="fa-solid fa-camera"></i> Concert and wedding photographer.
