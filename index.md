@@ -3,7 +3,7 @@ layout: cv
 title: Brunetto M. Ziosi
 ---
 # Brunetto Marco Ziosi
-## About
+## Me
                                         
 Passionate developer hanging out with Go at the moment, PhD in Astrophysics. A past with Python, PHP and Fortran (and just a little taste of C and C++). Love data telling stories and the beauty of visual narration. Like simplicity, sharing and collaboration. Constantly improving, prompted by curiosity, triggered by problem solving. 
 Traveler, geek and photographer in the spare time.
