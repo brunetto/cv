@@ -59,7 +59,7 @@ Develop internal solutions for packaging and shipping management inside the PHP/
 Optimize and automate the external carriers and outsourcers integration.
 Introduce the Go language into the company tech stack, design and build the first Go micro-services on AWS.   
 
-**PhD Astronomy and Astrophysics @ University of Padova, Research fellow @ INAF-OAPd**
+**PhD Astronomy and Astrophysics @ University of Padova,<br/>Research fellow @ INAF-OAPd**
 
 `2012 - 2015`
 
