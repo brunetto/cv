@@ -44,7 +44,7 @@ Design, build and ship Go micro-services on AWS (both new and legacy ones) with 
 
 `Sep 2015 - Jan 2018`
 
-Develop internal solutions for packaging and shipping management inside the PHP/AJAX/MySQL legacy ERP monolith.
+Develop internal solutions for packaging and shipping management inside the <!--PHP/AJAX/MySQL -->legacy <!--ERP--> monolith.
 Optimize and automate the external carriers and outsourcers integration.
 Introduce the Go language into the company tech stack, design and build the first Go micro-services on AWS.   
 
