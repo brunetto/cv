@@ -2,7 +2,7 @@
 layout: cv
 title: Brunetto M. Ziosi
 ---
-# Brunetto M. Ziosi
+# Brunetto Marco Ziosi
 ## About
                                         
 Passionate developer hanging out with Go at the moment, PhD in Astrophysics. A past with Python, PHP and Fortran (and just a little taste of C and C++). Love data telling stories and the beauty of visual narration. Like simplicity, sharing and collaboration. Constantly improving, prompted by curiosity, triggered by problem solving. 
@@ -10,18 +10,11 @@ Traveler, geek and photographer in the spare time.
 
 "Software engineering is what happens to programming when you add time and other programmers." [Russ Cox]
 
-<!--
-## Skills
-Go &#8226; Docker &#8226; AWS &#8226; Git &#8226; Python &#8226; PHP &#8226; HTML/JS/CSS &#8226; MySQL &#8226; MongoDB
--->        
-
 ## Web
 
 * <a href="http://brunettoziosi.com"><i class="fas fa-code"></i> http://brunettoziosi.com</a> 
 * <a href="https://github.com/brunetto"><i class="fab fa-github"></i> https://github.com/brunetto</a> 
 * <a href="https://www.linkedin.com/in/brunettoziosi/"><i class="fab fa-linkedin-in"></i> https://www.linkedin.com/in/brunettoziosi/</a> 
-
-<!-- ## Contacts -->
 
 ## Where
 
@@ -65,32 +58,15 @@ Provide solutions for the integration of production machines (e.g. printers, ind
 Develop internal solutions for packaging and shipping management inside the PHP/AJAX/MySQL legacy ERP monolith.
 Optimize and automate the external carriers and outsourcers integration.
 Introduce the Go language into the company tech stack, design and build the first Go micro-services on AWS.   
-                                    
-**Research fellow @ INAF-OAPd**
 
-`Jan 2015 - Jul 2015`
-
-Study gravitational waves sources in young star clusters by means of direct N-body and stellar evolution simulations. Develop Go and Python code to set up, run and analyse simulations on several remote computing clusters. Modify C++ code to model different physical processes involved.
-
-**Teaching assistant @ University of Padova**
-
-`2012 - 2013`
-
-Advise students with theory and exercises for the Python Lab and Mathematical analysis classes.
-
-**Intern @ University of Padova**
-
-`2010`
-
-Technical characterization of the Asiago astrophysical observatory, 3D model using Blender.
-
-## Edu <!--cation-->
-**PhD, Astronomy and Astrophysics @ University of Padova**
+**PhD Astronomy and Astrophysics @ University of Padova, Research fellow @ INAF-OAPd**
 
 `2012 - 2015`
- 
-Work on N-body simulations of star clusters to study the impact of stellar evolution and dynamics on neutron stars and black holes binary systems. These objects have been observed as sources of gravitational waves. Develop Go and Python code to set up, run and analyse simulations on several remote computing clusters.
-                                   
+
+Study gravitational waves sources in young star clusters by means of direct N-body and stellar evolution simulations. Develop Go and Python code to set up, run and analyse simulations on several remote computing clusters. Modify C++ code to model different physical processes involved. Published results agreed with the subsequent observations.
+
+## Edu
+
 **Master degree in Astronomy @ University of Padova**
 
 `2007 - 2011`
