@@ -44,8 +44,7 @@ Reference for the up-to-date knowledge of the language of choice (Go) inside the
 
 `Jan 2018 - Sep 2019`
 
-Design, build and ship Go micro-services on AWS (both new and legacy ones).
-Focus: packaging and shipping management, integration of external services, integration with industrial printing and shipping machines.
+Design, build and ship Go micro-services on AWS (both new and legacy ones) with a focus on packaging and shipping management, integration of external services, integration with industrial printing and shipping machines.
 
 **Software Developer @ Pixartprinting - a Cimpress company**
 
