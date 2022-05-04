@@ -29,7 +29,7 @@ Traveler, geek and photographer in the spare time.
 
 Actively drive the company manufactury division through the trasformation from a "on-premise monolithic ERP" based company to a modern reality powered by distributed cloud-based software.
 Define the architecture <!-- of the current and future manufacturing software as a whole,--> together with its interactions with the other actors such as BI or the production stakeholders.
-Create <!-- the --> common services and librarias <!-- that make up the foundation of the cloud manufacturing applications.--> and 
+Create <!-- the --> common services and libraries <!-- that make up the foundation of the cloud manufacturing applications.--> and 
 curate the internal standards and best practices <!--, provide tools and libraries for the common tasks enabling rapid and safe development of new applications-->.
 Imagine, design and build entire new production lines from scratch, completely cloud-based, in matter of weeks.
 <!--Reference for the up-to-date knowledge of the language of choice (Go) inside the company.-->
