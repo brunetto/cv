@@ -28,11 +28,11 @@ Traveler, geek and photographer in the spare time.
 `Sep 2019 - Oct 2021`
 
 Actively drive the company manufactury division through the trasformation from a "on-premise monolithic ERP" based company to a modern reality powered by distributed cloud-based software.
-Define the architecture of the current and future manufacturing software as a whole, together with its interactions with the other actors such as BI or the production stakeholders.
-Create the common services that make up the foundation of the cloud manufacturing applications.
-Curate the internal standards and best practices, provide tools and libraries for the common tasks enabling rapid and safe development of new applications.
+Define the architecture <!-- of the current and future manufacturing software as a whole,--> together with its interactions with the other actors such as BI or the production stakeholders.
+Create <!-- the --> common services and librarias <!-- that make up the foundation of the cloud manufacturing applications.--> and 
+curate the internal standards and best practices <!--, provide tools and libraries for the common tasks enabling rapid and safe development of new applications-->.
 Imagine, design and build entire new production lines from scratch, completely cloud-based, in matter of weeks.
-Reference for the up-to-date knowledge of the language of choice (Go) inside the company.
+<!--Reference for the up-to-date knowledge of the language of choice (Go) inside the company.-->
 
 **Senior Software Engineer @ Pixartprinting - a Cimpress company**
 
@@ -52,7 +52,7 @@ Introduce the Go language into the company tech stack, design and build the firs
 
 `2012 - 2015`
 
-Study gravitational waves sources in young star clusters by means of direct N-body and stellar evolution simulations. Develop Go and Python code to set up, run and analyse simulations on several remote computing clusters. Modify C++ code to model different physical processes involved. Published results agreed with the subsequent observations.
+Study gravitational waves sources in young star clusters through direct N-body and stellar evolution simulations. Develop Go and Python code to set up, run and analyse simulations on several remote computing clusters. Modify C++ code to model different physical processes involved. Published results agreed with the subsequent observations.
 
 ## Edu
 
