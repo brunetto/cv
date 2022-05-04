@@ -12,7 +12,7 @@ Traveler, geek and photographer in the spare time.
 
 |-|-|
 
-|## Web
+| <!-- ## Web -->
     
 * <a href="http://brunettoziosi.com"><i class="fas fa-code"></i> http://brunettoziosi.com</a> 
 * <a href="https://github.com/brunetto"><i class="fab fa-github"></i> https://github.com/brunetto</a> 
@@ -20,7 +20,7 @@ Traveler, geek and photographer in the spare time.
 
 |
 
-## Where
+<!-- ## Where -->
 
 * <a href="mailto:brunetto.ziosi@gmail.com"><i class="fas fa-envelope"></i> brunetto.ziosi@gmail.com</a> 
 * <i class="fa fa-phone" aria-hidden="true"></i> +393474958152
