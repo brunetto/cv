@@ -21,7 +21,7 @@ Traveler, geek and photographer in the spare time.
 
 **Software Architect @ THRON** `Oct 2021 - Present`
 
-**Senior Software Engineer, Software Architect @ Pixartprinting** `Sep 2019 - Oct 2021`
+**Senior Software Engineer, Architect @ Pixartprinting** `Sep 2019 - Oct 2021`
 
 Actively drive the company manufactury division through the trasformation from a "on-premise monolithic ERP" based company to a modern reality powered by distributed cloud-based software.
 Define the architecture <!-- of the current and future manufacturing software as a whole,--> together with its interactions with the other actors such as BI or the production stakeholders.
@@ -43,6 +43,10 @@ Introduce the Go language into the company tech stack, design and build the firs
 **PhD Astronomy and Astrophysics @ UniPD,<br/>Research fellow @ INAF-OAPd** `2012 - 2015`
 
 Study gravitational waves sources in young star clusters through direct N-body and stellar evolution simulations. Develop Go and Python code to set up, run and analyse simulations on several remote computing clusters. Modify C++ code to model different physical processes involved. Published results agreed with the subsequent observations.
+
+
+
+
 
 ## Edu
 
