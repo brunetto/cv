@@ -19,10 +19,9 @@ Traveler, geek and photographer in the spare time.
 ## Where
 
 * <a href="mailto:brunetto.ziosi@gmail.com"><i class="fas fa-envelope"></i> brunetto.ziosi@gmail.com</a> 
-* +393474958152
-* Via Borgo San Giacomo, 20
-* 30174 - Venezia 
-* Italy
+* <i class="fa fa-phone" aria-hidden="true"></i> +393474958152
+* <i class="fa fa-map-marker" aria-hidden="true"></i> Via Borgo San Giacomo, 20
+* 30174 - Venice (Italy)
 
 ## Work
 
