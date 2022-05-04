@@ -12,6 +12,7 @@ Traveler, geek and photographer in the spare time.
 
 <table>
   <tr>
+    
 <!-- ## Web -->
 
     <td>
