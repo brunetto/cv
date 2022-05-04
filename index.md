@@ -29,7 +29,7 @@ Create common services and libraries and curate the internal standards and best 
 
 **Senior Software Engineer @ Pixartprinting** `Jan 2018 - Sep 2019`
 
-Design, build and ship Go micro-services on AWS (both new and legacy ones) with a focus on packaging and shipping management, integration of external services, integration with industrial printing and shipping machines.
+Design, build and ship Go micro-services on AWS with a focus on packaging and shipping management, integration of external services, integration with industrial printing and shipping machines.
 
 **Software Developer @ Pixartprinting** `Sep 2015 - Jan 2018`
 
