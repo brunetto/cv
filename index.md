@@ -10,23 +10,12 @@ Traveler, geek and photographer in the spare time.
 
 "Software engineering is what happens to programming when you add time and other programmers." [Russ Cox]
 
-|-|-|
-
-| <!-- ## Web -->
+## Where
     
-* <a href="http://brunettoziosi.com"><i class="fas fa-code"></i> http://brunettoziosi.com</a> 
-* <a href="https://github.com/brunetto"><i class="fab fa-github"></i> https://github.com/brunetto</a> 
-* <a href="https://www.linkedin.com/in/brunettoziosi/"><i class="fab fa-linkedin-in"></i> https://www.linkedin.com/in/brunettoziosi/</a> 
-
-|
-
-<!-- ## Where -->
-
-* <a href="mailto:brunetto.ziosi@gmail.com"><i class="fas fa-envelope"></i> brunetto.ziosi@gmail.com</a> 
-* <i class="fa fa-phone" aria-hidden="true"></i> +393474958152
-* <i class="fa fa-map-marker" aria-hidden="true"></i> Via Borgo San Giacomo, 20
-* 30174 - Venice (Italy)
-|
+| * <a href="http://brunettoziosi.com"><i class="fas fa-code"></i> http://brunettoziosi.com</a> | * <a href="mailto:brunetto.ziosi@gmail.com"><i class="fas fa-envelope"></i> brunetto.ziosi@gmail.com</a> |
+| * <a href="https://github.com/brunetto"><i class="fab fa-github"></i> https://github.com/brunetto</a> | * <i class="fa fa-phone" aria-hidden="true"></i> +393474958152 |
+| * <a href="https://www.linkedin.com/in/brunettoziosi/"><i class="fab fa-linkedin-in"></i> https://www.linkedin.com/in/brunettoziosi/</a> | * <i class="fa fa-map-marker" aria-hidden="true"></i> Via Borgo San Giacomo, 20 |
+|| * 30174 - Venice (Italy) |
 
 ## Work
 
