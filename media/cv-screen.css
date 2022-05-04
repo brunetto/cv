@@ -73,10 +73,10 @@ body {
 p {
 	position: relative;
 	/*left: 33%;*/
-	left: 25%;
+	left: 15%;
 	margin-bottom: 0.7em;
 	margin-right: 0;
-	width: 65%;
+	width: 75%;
 	text-align: justify;
 }
 
@@ -97,7 +97,7 @@ p code {
 
 ul { 
 	position: relative;
-	left: 25%;
+	left: 15%;
 	width: 65%;
 	margin-bottom: 1.5em;
 	/*margin-top: -0.5em;*/
@@ -151,7 +151,7 @@ h2 {
 	position: relative;
 	top: 1.4em;
 	text-align: right;
-	width: 20%;
+	width: 10%;
 }
 
 h3 {
@@ -160,7 +160,7 @@ h3 {
 	position: relative;
 	top: 1.7em;
 	text-align: right;
-	width: 20%;
+	width: 10%;
 }
 
 a {
