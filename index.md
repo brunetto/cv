@@ -31,7 +31,7 @@ Actively drive the company manufactury division through the trasformation from a
 Define the architecture <!-- of the current and future manufacturing software as a whole,--> together with its interactions with the other actors such as BI or the production stakeholders.
 Create <!-- the --> common services and libraries <!-- that make up the foundation of the cloud manufacturing applications.--> and 
 curate the internal standards and best practices <!--, provide tools and libraries for the common tasks enabling rapid and safe development of new applications-->.
-Imagine, design and build entire new production lines from scratch, completely cloud-based, in matter of weeks.
+<!-- Imagine, design and build entire new production lines from scratch, completely cloud-based, in matter of weeks.-->
 <!--Reference for the up-to-date knowledge of the language of choice (Go) inside the company.-->
 
 **Senior Software Engineer @ Pixartprinting - a Cimpress company**
