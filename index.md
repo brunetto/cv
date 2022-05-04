@@ -19,13 +19,9 @@ Traveler, geek and photographer in the spare time.
 
 ## Work
 
-**Software Architect @ THRON**
+**Software Architect @ THRON** `Oct 2021 - Present`
 
-`Oct 2021 - Present`
-
-**Senior Software Engineer, Software Architect @ Pixartprinting - a Cimpress company**
-
-`Sep 2019 - Oct 2021`
+**Senior Software Engineer, Software Architect @ Pixartprinting - a Cimpress company** `Sep 2019 - Oct 2021`
 
 Actively drive the company manufactury division through the trasformation from a "on-premise monolithic ERP" based company to a modern reality powered by distributed cloud-based software.
 Define the architecture <!-- of the current and future manufacturing software as a whole,--> together with its interactions with the other actors such as BI or the production stakeholders.
@@ -34,37 +30,27 @@ curate the internal standards and best practices <!--, provide tools and librari
 <!-- Imagine, design and build entire new production lines from scratch, completely cloud-based, in matter of weeks.-->
 <!--Reference for the up-to-date knowledge of the language of choice (Go) inside the company.-->
 
-**Senior Software Engineer @ Pixartprinting - a Cimpress company**
-
-`Jan 2018 - Sep 2019`
+**Senior Software Engineer @ Pixartprinting - a Cimpress company** `Jan 2018 - Sep 2019`
 
 Design, build and ship Go micro-services on AWS (both new and legacy ones) with a focus on packaging and shipping management, integration of external services, integration with industrial printing and shipping machines.
 
-**Software Developer @ Pixartprinting - a Cimpress company**
-
-`Sep 2015 - Jan 2018`
+**Software Developer @ Pixartprinting - a Cimpress company** `Sep 2015 - Jan 2018`
 
 Develop internal solutions for packaging and shipping management inside the <!--PHP/AJAX/MySQL -->legacy <!--ERP--> monolith.
 Optimize and automate the external carriers and outsourcers integration.
 Introduce the Go language into the company tech stack, design and build the first Go micro-services on AWS.   
 
-**PhD Astronomy and Astrophysics @ University of Padova,<br/>Research fellow @ INAF-OAPd**
-
-`2012 - 2015`
+**PhD Astronomy and Astrophysics @ University of Padova,<br/>Research fellow @ INAF-OAPd** `2012 - 2015`
 
 Study gravitational waves sources in young star clusters through direct N-body and stellar evolution simulations. Develop Go and Python code to set up, run and analyse simulations on several remote computing clusters. Modify C++ code to model different physical processes involved. Published results agreed with the subsequent observations.
 
 ## Edu
 
-**Master degree in Astronomy @ University of Padova**
-
-`2007 - 2011`
+**Master degree in Astronomy @ University of Padova** `2007 - 2011`
 
 Develop Python code to analyse the spatial statistical properties of dark matter halos in the largest cosmological simulations.
                                    
-**Bachelor degree in Astronomy @ University of Padova**
-
-`2004 - 2007`
+**Bachelor degree in Astronomy @ University of Padova** `2004 - 2007`
 
 Develop IDL code to simulate and analyze optical vortexes with different angular momentum. Compare the results with data obtained on the optical bench.
 
