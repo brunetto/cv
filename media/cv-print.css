@@ -124,7 +124,7 @@ li ul {
 h1,h2,h3,h4 {
 	font-weight: 400;
 	font-family: Cousine,Verdana,sans-serif;
-	width: 65%;
+	width: 75%;
 }
 
 h1 {
@@ -148,7 +148,7 @@ h2 {
 	position: relative;
 	top: 1.2em;
 	text-align: right;
-	width: 18%;
+	width: 8%;
 }
 
 h2+p {
