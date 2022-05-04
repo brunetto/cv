@@ -3,31 +3,31 @@ layout: cv
 title: Brunetto M. Ziosi
 ---
 # Brunetto M. Ziosi
-## About me
+## About
                                         
 Passionate developer hanging out with Go at the moment, PhD in Astrophysics. A past with Python, PHP and Fortran (and just a little taste of C and C++). Love data telling stories and the beauty of visual narration. Like simplicity, sharing and collaboration. Constantly improving, prompted by curiosity, triggered by problem solving. 
 Traveler, geek and photographer in the spare time.
 
 "Software engineering is what happens to programming when you add time and other programmers." [Russ Cox]
-
+<!--
 ## Skills
 Go &#8226; Docker &#8226; AWS &#8226; Git &#8226; Python &#8226; PHP &#8226; HTML/JS/CSS &#8226; MySQL &#8226; MongoDB
-                                                                      
+-->                                                                  
 ## Web
 
-* <a href="mailto:brunetto.ziosi@gmail.com"><i class="fas fa-envelope"></i> brunetto.ziosi@gmail.com</a> 
 * <a href="http://brunettoziosi.com"><i class="fas fa-code"></i> http://brunettoziosi.com</a> 
 * <a href="https://github.com/brunetto"><i class="fab fa-github"></i> https://github.com/brunetto</a> 
 * <a href="https://www.linkedin.com/in/brunettoziosi/"><i class="fab fa-linkedin-in"></i> https://www.linkedin.com/in/brunettoziosi/</a> 
 
 ## Contacts
 
+* <a href="mailto:brunetto.ziosi@gmail.com"><i class="fas fa-envelope"></i> brunetto.ziosi@gmail.com</a> 
 * +393474958152
 * Via Borgo San Giacomo, 20
 * 30174 - Venezia 
 * Italy
 
-## Work experience
+## Work
 
 **Software Architect @ THRON**
 
@@ -99,7 +99,9 @@ Develop Python code to analyse the spatial statistical properties of dark matter
 
 Develop IDL code to simulate and analyze optical vortexes with different angular momentum. Compare the results with data obtained on the optical bench.
 
-## Interests
-
+## Other
+<!--
 Photography &#8226; Travelling &#8226; Trekking &#8226; Diving &#8226; Volunteering.   
 Pro-bono photographer at a local cultural association.
+-->
+* <i class="fa-solid fa-camera"></i> Concert and wedding photographer.
