@@ -29,7 +29,7 @@ Traveler, geek and photographer in the spare time.
 
 `Oct 2021 - Present`
 
-**Senior Software Engineer @ Pixartprinting - a Cimpress company**
+**Senior Software Engineer, Software Architect @ Pixartprinting - a Cimpress company**
 
 `Sep 2019 - Oct 2021`
 
@@ -44,11 +44,8 @@ Reference for the up-to-date knowledge of the language of choice (Go) inside the
 
 `Jan 2018 - Sep 2019`
 
-Design, build and ship Go micro-services on AWS (mainly Lambda, SNS, SQS, DynamoDB and S3, sometime ECS).
-Help other teams porting legacy workflows to the AWS cloud.
-Provide support the PHP/AJAX/MySQL legacy ERP monolith while migrating to the new architecture.
-Focus on the logistic side of the business both developing solutions for the packaging and shipping management and integrating external services.    
-Provide solutions for the integration of production machines (e.g. printers, industrial cutters, package sorters and palletizers) into the new cloud architecture.
+Design, build and ship Go micro-services on AWS (both new and legacy ones).
+Focus: packaging and shipping management, integration of external services, integration with industrial printing and shipping machines.
 
 **Software Developer @ Pixartprinting - a Cimpress company**
 
