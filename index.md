@@ -20,6 +20,7 @@ Traveler, geek and photographer in the spare time.
 ## Work
 
 **DevOps Team Leader @ THRON** `March 2023 - Present`
+
 **Software Architect @ THRON** `Oct 2021 - Present`
 
 **Senior Software Engineer, Architect @ Pixartprinting** `Sep 2019 - Oct 2021`
