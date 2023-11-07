@@ -11,8 +11,7 @@ Passionate developer, architect and team leader. PhD in Astrophysics. A present 
 
 ## Where
     
-| <a href="http://brunettoziosi.com"><i class="fas fa-code"></i> http://brunettoziosi.com</a> | <a href="mailto:brunetto.ziosi@gmail.com"><i class="fas fa-envelope"></i> brunetto.ziosi@gmail.com</a> |
-| <a href="https://www.linkedin.com/in/brunettoziosi/"><i class="fab fa-linkedin-in"></i> https://www.linkedin.com/in/brunettoziosi/</a> | <i class="fa fa-phone" aria-hidden="true"></i> +393474958152 |
+| <a href="https://www.linkedin.com/in/brunettoziosi/"><i class="fab fa-linkedin-in"></i> https://www.linkedin.com/in/brunettoziosi/</a> | <a href="mailto:brunetto.ziosi@gmail.com"><i class="fas fa-envelope"></i> brunetto.ziosi@gmail.com</a> | <i class="fa fa-phone" aria-hidden="true"></i> +393474958152 |
 
 ## Work
 
