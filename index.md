@@ -55,4 +55,4 @@ Analyze optical vortexes with different angular momentum via software simulation
 
 ## Other
 
-<i class="fas fa-camera"></i> Photographer.
+<i class="fas fa-camera"></i> Photography, <i class="fas fa-mountain"></i> Hiking & Climbing
