@@ -19,7 +19,7 @@ Passionate developer, architect and team leader. PhD in Astrophysics. A present 
 
 **DevOps Team Leader @ THRON** `March 2023 - Present`
 
-Take care of the new born infrastructure and automation team with a focus on people wellbeing. Modernize infrastructure adopting state-of-the-art tools to write, build, ship and monitor applications on AWS. actively serve as a bridge between the stakeholders and the team finding the better balance between different needs. Reorganize work flows to lower friction and let the team get the job done.
+Take care of the new born infrastructure and automation team with a focus on people wellbeing. Modernize infrastructure evaluating and adopting state-of-the-art tools to write, build, ship and monitor applications on AWS. actively serve as a bridge between the stakeholders and the team finding the better balance between different needs. Reorganize work flows to lower friction and let the team get the job done.
 
 **Software Architect @ THRON** `Oct 2021 - Present`
 
