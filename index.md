@@ -40,7 +40,9 @@ Develop internal solutions for packaging and shipping management inside the lega
 
 **PhD Astronomy and Astrophysics @ UniPD,<br/>Research fellow @ INAF-OAPd** `2012 - 2015`
 
-Study gravitational waves sources in dense stellar environment through direct N-body and stellar evolution simulations. Set up, run and analyse simulations on several remote computing clusters. Modify existing code to model different physical processes involved. Published results agreed with the subsequent observations.        
+Study gravitational waves sources in dense stellar environment through direct N-body and stellar evolution simulations. Set up, run and analyse simulations on several remote computing clusters. Modify existing code to model different physical processes involved. Published results agreed with the subsequent observations.
+
+
 
 ## Edu
 
