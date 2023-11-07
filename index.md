@@ -6,7 +6,7 @@ title: Brunetto M. Ziosi
 ## Me
                                         
 Passionate developer, architect and team leader. PhD in Astrophysics. A present with people, a past with Go, Python, PHP and Fortran (and just a little taste of C and C++). Love data telling stories and the beauty of visual narration. Like simplicity, sharing and collaboration. Constantly improving, prompted by curiosity, triggered by problem solving. 
-Traveler, geek and photographer in the spare time.
+</br>Traveler, geek and photographer in the spare time.
 
 "Software engineering is what happens to programming when you add time and other programmers." [Russ Cox]
 
