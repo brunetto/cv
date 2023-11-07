@@ -5,7 +5,7 @@ title: Brunetto M. Ziosi
 # Brunetto Marco Ziosi
 ## Me
                                         
-Passionate developer and architect. PhD in Astrophysics. A present with Go, a past with Python, PHP and Fortran (and just a little taste of C and C++). Love data telling stories and the beauty of visual narration. Like simplicity, sharing and collaboration. Constantly improving, prompted by curiosity, triggered by problem solving. Traveler, geek and photographer in the spare time.
+Passionate developer, architect and team leader. PhD in Astrophysics. A present with people, a past with Go, Python, PHP and Fortran (and just a little taste of C and C++). Love data telling stories and the beauty of visual narration. Like simplicity, sharing and collaboration. Constantly improving, prompted by curiosity, triggered by problem solving. Traveler, geek and photographer in the spare time.
 
 "Software engineering is what happens to programming when you add time and other programmers." [Russ Cox]
 
@@ -19,7 +19,11 @@ Passionate developer and architect. PhD in Astrophysics. A present with Go, a pa
 
 **DevOps Team Leader @ THRON** `March 2023 - Present`
 
+Take care of the new born infrastructure and automation team with a focus on people wellbeing. Modernize infrastructure adopting modern tools to write, build, ship and monitor applications on AWS. actively serve as a bridge between the stakeholders and the team finding the better balance between different needs. Reorganize work flows to lower friction and let the team get the job done.
+
 **Software Architect @ THRON** `Oct 2021 - Present`
+
+Redefine and simplify the company tech stack and architecture from Scala, AWS ECS, MongoDB to Go, AWS Lambda, AWS DynamoDB enabling the developers to respond efficiently to the present and future challenges. 
 
 **Senior Software Engineer, Architect @ Pixartprinting** `Sep 2019 - Oct 2021`
 
