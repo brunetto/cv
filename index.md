@@ -5,23 +5,25 @@ title: Brunetto M. Ziosi
 # Brunetto Marco Ziosi
 ## Me
                                         
-Passionate developer, architect and team leader. PhD in Astrophysics. A present with people, a past with Go, Python, PHP and Fortran (and just a little taste of C and C++). Love data telling stories and the beauty of visual narration. Like simplicity, sharing and collaboration. Constantly improving, prompted by curiosity, activated by problem solving. 
-Traveler, geek and photographer in the spare time.
-
-"Software engineering is what happens to programming when you add time and other programmers." [Russ Cox]
+After a decade of experience in astrophysics research and a career as a software engineer, software architect, and team leader in the IT industry, I have shifted my focus to storytelling through photography. I capture the essence of places, moments, and people—from the dynamic energy of the streets to the serene peaks of mountains, the intimacy of altars, and the vibrancy of stages. I bring a strong emphasis on automation, streamlined processes, project management, and people’s well-being, skills honed during my previous career, into every project I undertake.
 
 ## Where
     
-|<a href="https://www.linkedin.com/in/brunettoziosi/"><i class="fab fa-linkedin-in"></i> brunettoziosi</a> | |
-|<a href="mailto:brunetto.ziosi@gmail.com"><i class="fas fa-envelope"></i> brunetto.ziosi@gmail.com</a> | <i class="fa fa-phone" aria-hidden="true"></i> +393474958152 |
+|<a href="https://www.linkedin.com/in/brunettoziosi/"><i class="fab fa-linkedin-in"></i> brunettoziosi</a> | <a href="mailto:brunetto.ziosi@gmail.com"><i class="fas fa-envelope"></i> brunetto.ziosi@gmail.com</a> |
+|<a href="[https://](https://www.instagram.com/biemmezeta/)"><i class="fas fa-instagram"></i> biemmezeta</a> | <i class="fa fa-phone" aria-hidden="true"></i> +393474958152 |
+|<a href="[https://](https://biemmezeta.com)"><i class="fas fa-home"></i> biemmezeta.com </a> |  |
 
 ## Work
 
-**DevOps Team Leader @ THRON** `March 2023 - Present`
+**Photographer** `June 2020 - Present`
+
+I am a versatile photographer with a passion for capturing authentic moments through reportage-style photography. My work spans various genres, from the raw, candid energy of street photography to the expansive beauty of landscapes. I specialize in photographing concerts, where I thrive on the challenge of documenting the vibrant atmosphere and emotion of live performances. Whether at a wedding, in a bustling city street, or a serene natural setting, I aim to tell compelling stories through my lens, bringing a unique perspective to each subject and scene.
+
+**DevOps Team Leader @ THRON** `March 2023 - April 2024`
 
 Take care of the new born infrastructure and automation team with a focus on people well-being. Empower people to express their ideas, contribute with their competences and grow their skills. Modernize infrastructure evaluating and adopting best-in-class tools to write, build, ship and monitor applications on AWS. Actively serve as a bridge between stakeholders and the team finding the best balance between different needs. Reorganize workflows to lower friction and let the team get the job done.
 
-**Software Architect @ THRON** `Oct 2021 - Present`
+**Software Architect @ THRON** `Oct 2021 - April 2024`
 
 Redefine and simplify the company tech stack and architecture from Scala, AWS ECS, MongoDB to Go, AWS Lambda, AWS DynamoDB enabling the developers to respond efficiently to the present and future challenges. 
 
