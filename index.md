@@ -19,7 +19,7 @@ After a decade of experience in astrophysics research and a career as a software
 
 Reportage \| Events&Concerts \| Portraits \| Weddings    
 
-I am a versatile photographer with a passion for capturing authentic moments through reportage-style photography. My work spans various genres, from the raw, candid energy of street photography to the expansive beauty of landscapes. I specialize in photographing concerts, where I thrive on the challenge of documenting the vibrant atmosphere and emotion of live performances. Whether at a wedding, in a bustling city street, or a serene natural setting, I aim to tell compelling stories through my lens, bringing a unique perspective to each subject and scene.
+I am a professional photographer focused on capturing people, their emotions, and their stories. I specialize in reportage, portraits, and weddings, always adapting to the needs of those I photograph. My work spans from social movements to travel and landscapes, always with an eye for human presence. I also cover concerts and live events, capturing their energy and atmosphere. I combine creativity with a structured and result-oriented approach, ensuring each project is managed with care and efficiency. Whether working independently or in a team, I prioritize organization and collaboration to deliver high-quality images that truly reflect each client’s vision.
 
 **DevOps Team Leader @ THRON** `March 2023 - April 2024`
 
