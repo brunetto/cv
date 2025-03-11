@@ -17,6 +17,7 @@ After a decade of experience in astrophysics research and a career as a software
 
 **Photographer** `June 2020 - Present`
 
+Reportage | Events&Concerts | Portraits | Weddings    
 I am a versatile photographer with a passion for capturing authentic moments through reportage-style photography. My work spans various genres, from the raw, candid energy of street photography to the expansive beauty of landscapes. I specialize in photographing concerts, where I thrive on the challenge of documenting the vibrant atmosphere and emotion of live performances. Whether at a wedding, in a bustling city street, or a serene natural setting, I aim to tell compelling stories through my lens, bringing a unique perspective to each subject and scene.
 
 **DevOps Team Leader @ THRON** `March 2023 - April 2024`
