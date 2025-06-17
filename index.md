@@ -37,6 +37,7 @@ Drive the company manufactury division through the trasformation from a "on-prem
 Define the architecture together with its interactions with the other actors such as BI or the production stakeholders.
 Create common services and libraries and curate the internal standards and best practices.
 
+
 **Senior Software Engineer @ Pixartprinting** `Jan 2018 - Sep 2019`
 
 Design, build and ship Go micro-services on AWS with a focus on packaging and shipping management, integration of external services, integration with industrial printing and shipping machines.
