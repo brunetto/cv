@@ -9,7 +9,7 @@ After a decade of experience in astrophysics research and as a software engineer
 
 ## Where
     
-|<a href="https://www.linkedin.com/in/brunettomarcoziosi/"><i class="fab fa-linkedin-in"></i> brunettoziosi</a> | <a href="mailto:brunetto.ziosi@gmail.com"><i class="fas fa-envelope"></i> brunetto.ziosi@gmail.com</a> |
+|<a href="https://www.linkedin.com/in/brunettomarcoziosi/"><i class="fab fa-linkedin-in"></i> brunettomarcoziosi</a> | <a href="mailto:brunetto.ziosi@gmail.com"><i class="fas fa-envelope"></i> brunetto.ziosi@gmail.com</a> |
 |<a href="https://www.instagram.com/biemmezeta/"><i class="fab fa-instagram"></i> biemmezeta</a> | <i class="fa fa-phone" aria-hidden="true"></i> +393474958152 |
 |<a href="https://biemmezeta.com"><i class="fas fa-home"></i> biemmezeta.com </a> |  |
 
