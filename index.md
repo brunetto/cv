@@ -21,7 +21,7 @@ Reportage \| Events&Concerts \| Portraits \| Weddings
 
 I am a professional photographer focused on capturing people, their emotions, and their stories. I specialize in reportage, portraits, and weddings, always adapting to the needs of those I photograph. My work spans from social movements to travel and landscapes, always with an eye for human presence. I also cover concerts and live events, capturing their energy and atmosphere. I combine creativity with a structured and result-oriented approach, ensuring each project is managed with care and efficiency. Whether working independently or in a team, I prioritize organization and collaboration to deliver high-quality images that truly reflect each client’s vision.    
 
-Since 2025, collaborating with The Tour Guy to produce content for social media and the website. Photojournalist for Il Gazzettino. Founded my own brand, Biemmezeta, and co-founded PiAcca Studio.
+Since 2025, collaborating with The Tour Guy to produce content for social media and the website. Photojournalist for Il Gazzettino newpaper. Founded my own brand, <a href="https://biemmezeta.com/">Biemmezeta</a>, and co-founded <a href="https://piaccastudio.it/">PiAcca Studio</a> and <a href="https://dieresiproject.com/">Dieresi</a>.
 
 **DevOps Team Leader @ THRON** `March 2023 - April 2024`
 
