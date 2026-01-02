@@ -5,7 +5,9 @@ title: Brunetto M. Ziosi
 # Brunetto Marco Ziosi
 ## Me
                                         
-After a decade of experience in astrophysics research and as a software engineer, software architect, and team leader in the IT industry, I have shifted my focus to storytelling through photography. I capture the essence of places, moments, and people—from the dynamic energy of the streets to the serene peaks of mountains, the intimacy of altars, and the vibrancy of stages. I bring a strong emphasis on automation, streamlined processes, project management, and people’s well-being, skills honed during my previous career, into every project I undertake.
+After years spent in science and technology, I shifted to photography to stay closer to human experiences. I work across social, cultural, and personal contexts — moments of intensity, quietness, celebration, and resistance — always guided by the relationship that forms in front of the camera.
+
+My previous experience shapes how I work: with structure, care, and attention to people’s well-being, so that the focus can remain where it belongs — on people.
 
 ## Where
     
@@ -18,8 +20,6 @@ After a decade of experience in astrophysics research and as a software engineer
 **Photographer** `June 2020 - Present`
 
 Reportage \| Events&Concerts \| Portraits \| Weddings    
-
-From physics to code, from code to people.
 
 My photography is about People. People in love. People in music. People acting. People exploring the world.
 
