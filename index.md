@@ -21,7 +21,7 @@ My previous experience shapes how I work: with structure, care, and attention to
 
 Reportage \| Events&Concerts \| Portraits \| Weddings    
 
-My photography focuses on people and their relationships — in love, in music, in action, and in the way they explore the world.
+My photography focuses on people and their relationships — love, music, action, and in the way they explore the world.
 
 Photojournalist for "Il Gazzettino". Founder of <a href="https://biemmezeta.com/">Biemmezeta</a>, co-founder of <a href="https://piaccastudio.it/">PiAcca Studio</a> and <a href="https://dieresiproject.com/">Dieresi</a>. 
 
