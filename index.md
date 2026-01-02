@@ -19,11 +19,11 @@ My previous experience shapes how I work: with structure, care, and attention to
 
 **Photographer** `June 2020 - Present`
 
-Reportage \| Events&Concerts \| Portraits \| Weddings    
+Reportage \| Events & Concerts \| Portraits \| Weddings    
 
 My photography focuses on people and their relationships — love, music, action, and the way they explore the world.
 
-Photojournalist for "Il Gazzettino". Founder of <a href="https://biemmezeta.com/">Biemmezeta</a>, co-founder of <a href="https://piaccastudio.it/">PiAcca Studio</a> and <a href="https://dieresiproject.com/">Dieresi</a>. 
+Photojournalist for Il Gazzettino, covering cultural and social events. Founder of <a href="https://biemmezeta.com/">Biemmezeta</a>, co-founder of <a href="https://piaccastudio.it/">PiAcca Studio</a> and <a href="https://dieresiproject.com/">Dieresi</a>. 
 
 **Software Architect and DevOps Team Leader @ THRON** `Oct 2021 - April 2024`
 
@@ -31,11 +31,11 @@ From (dis-)functional Java to Go, from products to infrastructure, from nurturin
 
 **Software Engineer and Architect @ Pixartprinting** `Sep 2015 -  Oct 2021`
 
-From PHP to Go. From on-premise to cloud. Building production and logistics lines and trust among peers
+From PHP to Go. From on-premise to cloud. Building production and logistics lines and trust among peers.
 
 **PhD Astronomy and Astrophysics @ UniPD,<br/>Research fellow @ INAF-OAPd** `2012 - 2015`
 
-Evolution and dynamics in dense environments of gravitational waves sources candidates
+Evolution and dynamics in dense environments of candidate sources of gravitational waves.
 
 ## Edu
 
@@ -45,7 +45,7 @@ Spatial density distribution of dark matter (Python code).
                                    
 **Bachelor degree in Astronomy @ UniPD** `2004 - 2007`
 
-Optical vortexes with different angular momentum (IDL software simulation + optical bench). 
+Optical vortexes with different angular momentum (software simulation + optical bench). 
 
 ## Other
 
