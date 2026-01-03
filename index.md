@@ -8,7 +8,7 @@ title: Brunetto M. Ziosi
 After years spent in science and technology, I shifted to photography to stay closer to human experiences.    
 I work across social, cultural, and personal contexts — moments of intensity, quietness, celebration, and resistance — always guided by the relationship that forms in front of the camera.
 
-My previous experience shapes how I work: with structure, care, and attention to people’s well-being, so that the focus can remain where it belongs — on people.
+My previous experience shapes how I work: with structure, care, and attention to people’s well-being, so that the focus can remain where it belongs: on people.
 
 ## Where
     
@@ -22,8 +22,8 @@ My previous experience shapes how I work: with structure, care, and attention to
 
 Reportage \| Events & Concerts \| Portraits \| Weddings    
 
-My photography focuses on people and their relationships — love, music, action, and the way they explore the world.    
-Photojournalist for Il Gazzettino, covering cultural and social events. Founder of <a href="https://biemmezeta.com/">Biemmezeta</a>, co-founder of <a href="https://piaccastudio.it/">PiAcca Studio</a> and <a href="https://dieresiproject.com/">Dieresi</a>. 
+My photography focuses on people and their relationships: love, music, action, and the way they explore the world.    
+Photojournalist for "Il Gazzettino", covering cultural and social events. Founder of <a href="https://biemmezeta.com/">Biemmezeta</a>, co-founder of <a href="https://piaccastudio.it/">PiAcca Studio</a> and <a href="https://dieresiproject.com/">Dieresi</a>. 
 
 **Software Architect and DevOps Team Leader @ THRON** `Oct 2021 - April 2024`
 
