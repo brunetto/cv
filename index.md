@@ -23,6 +23,7 @@ My previous experience shapes how I work: with structure, care, and attention to
 Reportage \| Events & Concerts \| Portraits \| Weddings
 
 My photography focuses on people and their relationships — love, music, action, and the way they explore the world.    
+
 Freelance photojournalist collaborating with "Il Gazzettino" and "ANSA", covering social movements, cultural events, and breaking news.    
 Founder of <a href="https://biemmezeta.com/">Biemmezeta</a>, co-founder of <a href="https://piaccastudio.it/">PiAcca Studio</a> and <a href="https://dieresiproject.com/">Dieresi</a>.    
 I collaborate with <a href="https://thetourguy.com/">"The Tour Guy"</a> on visual storytelling for international travel experiences.
