@@ -27,7 +27,8 @@ My photography focuses on people and their relationships — love, music, action
 Freelance photojournalist collaborating with **Il Gazzettino** and **ANSA**, covering social movements, cultural events, and breaking news.    
 Travel photographer with <a href="https://www.instagram.com/galactic_expedition/">**Galactic Expedition**</a>, producing visual storytelling during international journeys (Morocco), creating people-centered travel imagery and content for social media and travel partners.    
 Founder of <a href="https://biemmezeta.com/">**Biemmezeta**</a>, co-founder of <a href="https://piaccastudio.it/">**PiAcca Studio**</a> and <a href="https://dieresiproject.com/">**Dieresi**</a>.    
-I collaborate with <a href="https://thetourguy.com/">**The Tour Guy**</a> on visual storytelling for international travel experiences and photograph couples and travelers in Venice.
+I collaborate with <a href="https://thetourguy.com/">**The Tour Guy**</a> on visual storytelling for international travel experiences and photograph couples and travelers in Venice.     
+Ongoing collaborations with models on long-term portrait projects focused on showing aesthetic research and experimental visual communication.
 
 **Software Architect and DevOps Team Leader @ THRON** `Oct 2021 - April 2024`
 
