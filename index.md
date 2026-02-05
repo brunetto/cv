@@ -30,11 +30,11 @@ Founder of <a href="https://biemmezeta.com/">**Biemmezeta**</a>, co-founder of <
 I collaborate with <a href="https://thetourguy.com/">**The Tour Guy**</a> on visual storytelling for international travel experiences and photograph couples and travelers in Venice.     
 Ongoing collaborations with models on long-term portrait projects focused on showing aesthetic research and experimental visual communication.
 
-**Software Architect and DevOps Team Leader @ THRON** `Oct 2021 - April 2024`
+**SW Architect and DevOps Team Leader @ THRON** `Oct 2021 - April 2024`
 
 From (dis-)functional Java to Go, from products to infrastructure, from nurturing code to nurturing people.
 
-**Software Engineer and Architect @ Pixartprinting** `Sep 2015 -  Oct 2021`
+**SW Engineer and Architect @ Pixartprinting** `Sep 2015 -  Oct 2021`
 
 From PHP to Go. From on-premise to cloud. Building production and logistics lines and trust among peers.
 
